@@ -1,2 +1,2 @@
 let res = prompt('Your name');
-alert(res);
+alert('Hello, ' + res + '!' + ' How are you?');
